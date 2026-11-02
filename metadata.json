@@ -1,0 +1,8 @@
+{
+  "name": "PustakaDigital - Sistem Perpustakaan Sekolah",
+  "description": "Aplikasi manajemen perpustakaan sekolah digital dengan fitur peminjaman, pengembalian, denda otomatis, dan inventaris buku terstruktur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
